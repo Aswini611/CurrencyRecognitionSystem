@@ -1,1 +1,2 @@
 I have developed a project called Currency Recognition System using image processing
+It will Detect denomination notes also
